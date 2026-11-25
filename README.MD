@@ -22,4 +22,3 @@
             </li>
         </ol>
     </p>
-<img src = "captures/Capture1.png">
