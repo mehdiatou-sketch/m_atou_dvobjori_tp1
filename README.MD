@@ -1,12 +1,15 @@
 <h3>Compte Rendu:</h3>
     <p>Créer l'interface IDao avec une méthode getData</p>
-    <p>Provide evidence</p>
+    <img src="captures/Evidence1.png">
     <p>Créer une implémentation de cette interface</p>
-    <p>Provide evidence</p>
+    <p>Implémentation IDAO 1:</p> 
+    <img src="captures/Evidence2.1.png"> 
+    <p>Implémentation IDAO 2:</p> 
+    <img src="captures/Evidence2.2.png"> 
     <p>Créer l'interface IMetier avec une méthode calcul</p>
-    <p>Provide evidence</p>
+    <img src="captures/Evidence3.png">
     <p>Créer une implémentation de cette interface en utilisant le couplage faible</p>
-    <p>Provide evidence</p>
+    <img src="captures/Evidence4.png">
     <p>Faire l'injection des dépendances :
         <ol>
             <li>Par instanciation statique (provide evidence)</li>
